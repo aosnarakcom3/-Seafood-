@@ -1,0 +1,6 @@
+{
+  "name": "Stock อุดมSesfoodปากช่อง",
+  "description": "ระบบจัดการสต็อกสินค้าและตัดยอดวัตถุดิบอัตโนมัติตามสูตรการผลิต (BOM) - Stock อุดมSesfoodปากช่อง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

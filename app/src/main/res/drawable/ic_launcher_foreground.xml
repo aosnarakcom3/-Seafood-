@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Box back & top flaps -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,26L78,38L54,50L30,38Z" />
+    <!-- Left face of warehouse box -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M30,40L52,51V76L30,65Z" />
+    <!-- Right face of warehouse box -->
+    <path
+        android:fillColor="#0369A1"
+        android:pathData="M56,51L78,40V65L56,76Z" />
+    <!-- Center seam / tape highlight -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M51,33L57,36L57,48L51,45Z" />
+    <!-- Subtraction/Deduction Arrow Badge -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M70,60A14,14 0 1,1 70,88A14,14 0 1,1 70,60Z" />
+    <!-- Recipe checklist / tick mark inside badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,74L68.5,77.5L75.5,70.5L77,72L68.5,80.5L63.5,75.5Z" />
+</vector>
